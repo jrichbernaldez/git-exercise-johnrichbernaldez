@@ -1,0 +1,1 @@
+Hello, this is John Rich Bernaldez learning Git!
